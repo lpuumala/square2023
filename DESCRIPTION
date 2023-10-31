@@ -1,10 +1,10 @@
 Package: square2023
-Title: Square a Number
+Title: Squares Numbers
 Version: 0.0.0.9000
 Authors@R: 
-    person("Lauren", "Puumala", , "lauren.puumala@ubc.ca", role = c("aut", "cre"),
+    person("Lauren S.", "Puumala", , "lauren.puumala@ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This is an instructional package demonstrating how to build a package using a squaring numbers function.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

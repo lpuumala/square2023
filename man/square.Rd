@@ -2,7 +2,7 @@
 % Please edit documentation in R/square.R
 \name{square}
 \alias{square}
-\title{Square a Number}
+\title{Squares Numbers}
 \usage{
 square(x)
 }
@@ -13,7 +13,7 @@ square(x)
 the square of \code{x}
 }
 \description{
-Square a Number
+Squares Numbers
 }
 \examples{
 square(10)

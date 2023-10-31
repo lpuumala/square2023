@@ -1,4 +1,4 @@
-#' Square a Number
+#' Squares Numbers
 #'
 #' @param x a numeric atomic, vector, or list
 #'
