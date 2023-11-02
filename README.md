@@ -29,6 +29,3 @@ x <- 1:10
 square(x)
 #>  [1]   1   4   9  16  25  36  49  64  81 100
 ```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this.
