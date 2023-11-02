@@ -1,6 +1,6 @@
 Package: square2023
 Title: Squares Numbers
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Lauren S.", "Puumala", , "lauren.puumala@ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
