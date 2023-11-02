@@ -4,13 +4,15 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Lauren S.", "Puumala", , "lauren.puumala@ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This is an instructional package demonstrating how to build a package using a squaring numbers function.
+Description: This is an instructional package demonstrating how to build a
+    package using a squaring numbers function.
 License: MIT + file LICENSE
-Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
 URL: https://github.com/lpuumala/square2023
 BugReports: https://github.com/lpuumala/square2023/issues
 Suggests: 
+    palmerpenguins,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
