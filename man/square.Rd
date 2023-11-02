@@ -7,7 +7,7 @@
 square(x)
 }
 \arguments{
-\item{x}{a numeric atomic, vector, or list}
+\item{x}{a numeric atomic or vector}
 }
 \value{
 the square of \code{x}

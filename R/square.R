@@ -1,6 +1,6 @@
 #' Squares Numbers
 #'
-#' @param x a numeric atomic, vector, or list
+#' @param x a numeric atomic or vector
 #'
 #' @return the square of \code{x}
 #' @export
